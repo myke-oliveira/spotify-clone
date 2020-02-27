@@ -1,0 +1,20 @@
+/* ======================== layout ========================*/
+
+/* -- Barra de navegação -- */
+.img-logo {
+	height: 40px;
+	width: 132px;
+	display: block;
+	background: url('imagens/spotify.svg') no-repeat;
+	border: 1px solid red;
+	background-size: contain;
+	color: transparent;
+}
+
+nav.navbar-transparente {
+	padding: 15px 0;
+	background: rgba(0, 0, 0, 0.6);
+	border: none;
+}
+
+/* ====================== tipografia ======================*/
